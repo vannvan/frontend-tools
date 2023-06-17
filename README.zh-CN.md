@@ -21,7 +21,7 @@
 - [JS.coach](https://js.coach/) - 一个开源JS包。
 - [LibHunt](https://www.libhunt.com/) - 我们的目标是帮助您找到所需的软件和库。所有列表均由来自相关 GitHub 社区的许多专家精心制作。
 - [Libraries.io](https://libraries.io/) - 帮助开发人员找到新的开源库、模块和框架，并跟踪他们所依赖的库、模块和框架。
-- [MicroJS](http://microjs.com/) - 梦幻般的微框架和微库，带来乐趣和利润！
+- [MicroJS](http://microjs.com/) - 一些极小的JS工具库！
 - [Moiva](https://moiva.io/) - 测量和比较 JavaScript 库。
 - [Node框架](http://nodeframework.com/) - 精心挑选的 Node.js 框架注册表。
 - [Node.js 工具箱](https://nodejstoolbox.com/) - 在 [Node.js](https://nodejstoolbox.com/) 生态系统中查找积极维护和流行的库。
@@ -302,8 +302,8 @@
 
 ## 检查、验证、清单
 
-- [前端清单](https://frontendchecklist.io/) - 在将您的网站/HTML页面启动到生产环境之前，您需要拥有/测试的所有元素的详尽列表。
-- [棉绒暂存](https://github.com/okonet/lint-staged) - 针对暂存的 git 文件运行 linter。此项目包含一个脚本，该脚本将运行任意 shell 任务，并将暂存文件列表作为参数，按指定的 glob 模式进行筛选。
+- [网页检查清单](https://frontendchecklist.io/) - 在将您的网站/HTML页面启动到生产环境之前，您需要拥有/测试的所有元素的详尽列表。
+- [lint-staged](https://github.com/okonet/lint-staged) - 针对暂存的 git 文件运行 linter。此项目包含一个脚本，该脚本将运行任意 shell 任务，并将暂存文件列表作为参数，按指定的 glob 模式进行筛选。
 - [textlint](https://textlint.github.io/) - 用于文本和降价的可插拔 linting 工具。 与 类似，但它用于自然语言。textlintESLint
 - [WebHint](https://webhint.io/) - 一个用于Web的linting工具。
 - [Web开发人员清单](http://webdevchecklist.com/) - 所有认真的Web开发人员构建现代网站的最终清单。
@@ -323,7 +323,7 @@
   - [quick-lint-js](https://quick-lint-js.com/) - 查找JavaScript程序中的错误。检查任何没有配置的 JavaScript 文件。
   - [TSLint](https://palantir.github.io/tslint/) - 一个可扩展的静态分析工具，用于检查 TypeScript 代码的可读性、可维护性和功能错误。它在现代编辑器和构建系统中得到广泛支持，并且可以使用您自己的 lint 规则、配置和格式化程序进行自定义。
   - [ts-prune](https://github.com/nadeesha/ts-prune) - 在 Typescript 项目中查找可能未使用的导出，无需配置。
-  - [未导入](https://github.com/smeijer/unimported) - 查找并修复 JavaScript 项目中悬空文件和未使用的依赖项。
+  - [unimported](https://github.com/smeijer/unimported) - 查找并修复 JavaScript 项目中悬空文件和未使用的依赖项。
   - [XO](https://github.com/xojs/xo) - 固执己见但可配置的 ESLint 包装器，包含许多好东西。
 
 ## 测试
@@ -557,7 +557,7 @@
 ## Node.js版本管理
 
 - [n](https://github.com/tj/n) - 以交互方式管理您的 Node.js 版本。
-- [Node包](https://www.npmjs.com/package/node) - 将二进制文件安装到项目中的 npm 包，这意味着您可以拥有与系统不同的本地版本，并作为普通依赖项进行管理。nodenodenode
+- [Node](https://www.npmjs.com/package/node) - 将二进制文件安装到项目中的 npm 包，这意味着您可以拥有与系统不同的本地版本，并作为普通依赖项进行管理。nodenodenode
 - [nodenv](https://github.com/nodenv/nodenv) - 管理多个 NodeJS 版本。
 - [Nodist](https://github.com/marcelklehr/nodist) - 一个Node.js和 npm 版本的管理器。
 - [nvm（Node版本管理器）](https://github.com/creationix/nvm) - 简单的bash脚本，用于管理多个活动Node.js版本。
@@ -623,7 +623,7 @@
 
 - [APIs.guru](https://apis.guru/browse-apis/) - 浏览器API的“维基百科”
 - [可编程 Web API 目录](https://www.programmableweb.com/apis/directory) - 开发人员可以在其中搜索要包含在下一个软件开发项目中的 API。
-- [公共](https://github.com/public-apis/public-apis) API - 用于软件和 Web 开发的免费 API 的集合列表。
+- [public-apis](https://github.com/public-apis/public-apis) API - 用于软件和 Web 开发的免费 API 的集合列表。
 - [public-apis.io](https://public-apis.io/) - 一个自由公共和开放 Rest API 的目录。
 - [RapidAPI](https://rapidapi.com/) - 查找并连接到数千个API，在一个地方跟踪和管理所有API连接。RapidAPI 允许您从一个位置管理所有 API 集成，并为您提供实时性能指标。
 - [Swagger](https://swagger.io/) - 一套功能强大且易于使用的 API 开发人员工具套件，适用于团队和个人，支持从设计和文档到测试和部署的整个 API 生命周期的开发。
@@ -769,7 +769,7 @@
 ### 有用的文章和资源
 
 - [120+ 查找知识共享媒体的地方](https://www.sitepoint.com/creative-commons-sources/) - 搜索音频、视频、图像等以用于项目的资源。
-- [令人敬畏的算法](https://github.com/tayllan/awesome-algorithms) - 学习和/或练习算法的精彩场所的精选列表。
+- [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - 学习和/或练习算法的精彩场所的精选列表。
 - [keepachangelog](https://keepachangelog.com/) - 使用户和贡献者更容易准确地查看项目的每个版本（或版本）之间进行了哪些值得注意的更改。
 - RenderingNG 架构概述 - Chrome [RenderingNG 架构](https://developer.chrome.com/blog/renderingng-architecture/)目标和关键属性概述。
 - [小模块的成本](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)（过时） - 表明小模块可以具有惊人的高性能成本，具体取决于您选择的捆绑器和模块系统。
