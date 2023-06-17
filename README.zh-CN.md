@@ -6,7 +6,7 @@
 ## 工具目录 / 搜索 / 发现 / 比较服务
 
 - [AlternativeTo](https://alternativeto.net/) - 一项免费服务，可帮助您找到您喜欢和讨厌的产品的更好替代品。  
-- [awesome](https://awesome.re/) - 一个精选的awasome列表。
+- [awesome](https://awesome.re/) - 一个精选的awesome列表。
 - [awesomeopensource](https://awesomeopensource.com/) - 通过搜索，浏览和组合主题来查找开源。
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - React 组件和库的精选列表。
 - [最好的JavaScript](https://bestofjs.org/) - 一个找到最好的组件来构建令人惊叹的Web应用程序的地方。
@@ -15,7 +15,7 @@
 - [headlesscms.org](https://headlesscms.org/) - JAMstack 站点的内容管理系统列表。
 - [iReact](http://ireact.cn/) - 帮助你发现最棒、最强大的 React 组件和库，并让你轻松选择一个适合你的。
 - [JavaScripting](https://www.javascripting.com/) - 最好的JavaScript库，框架和插件的权威来源。
-- [jQuery 插件 - jQuery 插件](https://jquery-plugins.net/)的分类集合。
+- [jQuery 插件](https://jquery-plugins.net/)的分类集合。
 - [JqueryScript.Net](https://www.jqueryscript.net/) - jQuery插件网站之一，为网页设计师和开发人员提供了一种简单的方法来预览和下载各种免费的jQuery插件。
 - [JSter](http://jster.net/) - 前端JavaScript库的目录。
 - [JS.coach](https://js.coach/) - 一个开源JS包。
@@ -72,17 +72,17 @@
 
 - [Angular 2](https://angular.io/) - 用于构建移动和桌面Web应用程序的开发平台。
 - [Aurelia](http://aurelia.io/)-一个用于移动，桌面和Web的JavaScript客户端框架，利用简单的约定并增强创造力。
-- [choo](https://github.com/yoshuawuyts/choo) - 用于创建坚固的前端应用程序的框架。
-- [CycloW](http://cyclow.js.org/) - 一个反应式前端框架。
-- [Ember](http://emberjs.com/) - 一个用于创建雄心勃勃的Web应用程序的框架。
+- [choo](https://github.com/yoshuawuyts/choo) - 用于创建稳固的前端应用程序的框架。
+- [CycloW](http://cyclow.js.org/) - 一个响应式的前端框架。
+- [Ember](http://emberjs.com/) - Ember.js是一个高效的、久经考验的JavaScript框架，用于构建现代Web应用程序。
 - [HyperApp](https://github.com/hyperapp/hyperapp) - 一个用于构建前端应用程序的JavaScript库。
 - [Mithril](https://mithril.js.org/) - 一个现代的客户端Javascript框架，用于构建单页应用程序。
 - [qooxdoo](http://www.qooxdoo.org/) - 一个通用的JavaScript框架，使您能够为各种平台创建应用程序。
 
 ## JavaScript UI （view） 库 / 框架
 
-- [Alpine.js](https://github.com/alpinejs/alpine) - 一个坚固的最小框架，用于在标记中编写 JavaScript 行为。Alpine.js 以更低的成本为您提供了 Vue 或 React 等大型框架的响应式和声明性。
-- [Cell](https://www.celljs.org/) - 一个由自驱动的DOM驱动的自构建的Web应用程序框架。
+- [Alpine.js](https://github.com/alpinejs/alpine) - 一个稳固的最小框架，用于在标记中编写 JavaScript 行为。Alpine.js 以更低的成本为您提供了 Vue 或 React 等大型框架的响应式和声明性。
+- [Cell](https://www.celljs.org/) - 一个由自驱动DOM驱动的自构建Web应用程序框架。
 - [Inferno](https://infernojs.org/) - 一个非常快速的、类似 React 的 JavaScript 库，用于构建现代用户界面。
 - [markojs](https://markojs.com/) - 一个友好的（而且快速！使构建 Web 应用程序变得有趣的 UI 库。
 - [Melody](https://melody.js.org/) - 一个快速且内存高效的库，用于创建高度动态的用户界面。
@@ -110,19 +110,19 @@
 - [libreact](https://github.com/streamich/libreact) - 任何项目中都可能需要的最重要的 React 实用程序的集合。
 - [Material-UI -](https://material-ui.com/) 一组实现 Google Material 设计的 React 组件。
 - [react-md](https://react-md.dev/) - 一个可访问的 React 组件库，基于 Sass 中的材料设计指南构建。
-- React [Toolbox](http://react-toolbox.io/) - 一组实现 Google Material Design 规范的 React 组件。
+- [React 工具包](http://react-toolbox.io/) - 一组实现 Google Material Design 规范的 React 组件。
 - [ReactXP](https://microsoft.github.io/reactxp/) - 一个使用 React 和 React Native 进行跨平台应用程序开发的库。
 - [Rebass](https://rebassjs.org/) - 使用 Styled System 构建的 React 基元 UI 组件。
 
 ## 基于 Vue 的库/框架
 
-- [BalmUI](https://material.balmjs.com/) - 适用于 Vue.js 的下一代材料 UI。
+- [BalmUI](https://material.balmjs.com/) - BalmUI是一个Google Material设计系统，由开源代码支持，可帮助团队构建高质量的数字体验。
 - [Buefy](https://buefy.org/) - 一个基于 Bulma 框架和设计的 Vue 响应式 UI 组件的轻量级库.js。
 - [element](http://element.eleme.io/) - 一个 Vue.js 2.0 UI 工具包。
 - [iView](https://www.iviewui.com/) - 一个基于 Vue.js 构建的高质量 UI 工具包。
 - [Keen](https://josephuspaye.github.io/Keen-UI/) UI - 使用 Vue 编写的基本 UI 组件的轻量级集合.js并受到 Material Design 的启发。
 - [Muse](https://museui.github.io/) UI - 一个基于 Vue 2.0 和 Material Design 的 UI 组件库。
-- [quasar](https://quasar.dev/) - 在创纪录的时间内构建高性能的 VueJS 用户界面。
+- [quasar](https://quasar.dev/) - 企业级跨平台VueJs框架。
 - [Vuetify.js](https://vuetifyjs.com/) - Vue.js 2 的组件框架。
 - [Vue](https://vuematerial.io/) Material - 简单，轻量级，完全按照Google Material Design规范构建。构建设计良好的应用程序，这些应用程序可以适应每个屏幕，支持所有现代 Web 浏览器，具有动态主题、按需组件以及易于使用的 API。
 
@@ -135,7 +135,7 @@
 - [Bulma](https://bulma.io/) - 一个基于Flexbox的现代CSS框架。
 - [designmodo](http://designmodo.github.io/Flat-UI/) - 。免费用户界面套件
 - [Foundation](https://get.foundation/) - 世界上最先进的响应式前端框架。
-- [Froala设计](https://www.froala.com/design-blocks)块 - 一组170 +基于Bootstrap的设计块，可用于创建干净的现代网站。
+- [Froala设计](https://www.froala.com/design-blocks)一组170 +基于Bootstrap的设计块，可用于创建干净的现代网站。
 - [GroundworkCSS](http://groundworkcss.github.io/)（过时） - 一个完全响应的HTML5，CSS和Javascript工具包。
 - [gethalfmoon](https://www.gethalfmoon.com/) - 具有内置暗模式的前端框架，并使用CSS变量进行完全可定制;非常适合构建仪表板和工具。
 - [Ink](http://ink.sapo.pt/) - 用于快速开发 Web 界面的界面套件，易于使用和扩展。
@@ -195,7 +195,7 @@
 
 ## 数据/模型/状态管理库
 
-- [Breeze](http://www.getbreezenow.com/breezejs) - 面向用JavaScript编写的富客户端应用程序开发人员的数据管理库。如果您将数据存储在数据库中，查询这些数据并将其保存为复杂的对象图，并在 JavaScript 客户端的多个屏幕上共享这些图，那么 Breeze 适合您。
+- [Breeze](http://www.getbreezenow.com/breezejs) - 面向用JavaScript编写的数据管理库。如果您将数据存储在数据库中，查询这些数据并将其保存为复杂的对象图，并在 JavaScript 客户端的多个屏幕上共享这些图，那么 Breeze 适合您。
 - [Cerebral](https://cerebraljs.com/) - 用于流行JavaScript框架的声明性状态和副作用管理解决方案。
 - [Effector](https://effector.now.sh/) - Javascript 应用程序的有效多存储状态管理器，允许您管理复杂应用程序中的数据，而不会有膨胀整体中央存储的风险，具有清晰的控制流、良好的类型支持和高容量 API。
 - [freactal](https://github.com/FormidableLabs/freactal) - 一个用于 React 的可组合状态管理库。
@@ -204,7 +204,7 @@
 - [MobX](https://mobx.js.org/) - 一个经过实战考验的库，通过透明地应用函数式反应式编程，使状态管理变得简单且可扩展。
 - [NuclearJS](https://optimizely.github.io/nuclear-js/) - 使用不可变JS数据结构构建的活功通量。
 - [Orbit](https://orbitjs.com/) - 一个可组合的数据框架，用于管理当今 Web 应用程序的复杂需求。虽然 Orbit 主要用作灵活的客户端 ORM，但它也可以在 Node.js 中的服务器端使用。
-- [overmindjs](https://overmindjs.org/) - 无摩擦状态管理。Overmind 旨在提供您关注的开发人员体验，将状态管理的编排减少到最低限度。
+- [overmindjs](https://overmindjs.org/) - 无障碍状态管理。Overmind 旨在提供您关注的开发人员体验，将状态管理的编排减少到最低限度。
 - [Redux](https://redux.js.org/) - JavaScript应用程序的可预测状态容器。
 - [Storeon](https://github.com/storeon/storeon) - 一个基于事件的小型类似 Redux 的状态管理器，用于 React 和 Preact。
 - [Transis](https://github.com/centro/transis) - 一个 JavaScript 数据建模库，可用于创建丰富的客户端体验。
@@ -230,9 +230,9 @@
 - [RxDB](https://rxdb.info/) - JavaScript应用程序的实时数据库。RxDB是一个NoSQL数据库，用于JavaScript应用程序，如网站，混合应用程序，电子应用程序，渐进式Web应用程序和NodeJs。
 - [TingoDB](http://www.tingodb.com/) - 一个嵌入式JavaScript进程内文件系统或内存数据库，在API级别与MongoDB兼容。
 
-## 国际化 （i18n）， 本地化 （l10n）
+## 国际化/本地化
 
-- Fluent.js - [Project Fluent](https://projectfluent.org/)的JavaScript实现，这是一个旨在释放自然语言表达能力的本地化框架。
+- [Project Fluent](https://projectfluent.org/)的JavaScript实现，这是一个旨在释放自然语言表达能力的本地化框架。
 - [FormatJS](https://formatjs.io/) - 用于国际化的JavaScript库的模块化集合，专注于格式化数字，日期和字符串以显示给人们。它包括一组基于 JavaScript Intl 内置和行业标准 i18n 标准构建的核心库，以及一组用于通用模板和组件库的集成。
 - [Globalize](https://globalizejs.com/) - 一个用于国际化和本地化的 JavaScript 库，利用官方的 Unicode CLDR JSON 数据。Globalize 提供数字格式设置和分析、日期和时间格式设置和分析、货币格式、消息格式（ICU 消息格式模式）和复数支持。
 - [i18next](https://www.i18next.com/) - 一个用JavaScript编写的国际化框架。它为您提供了一个完整的解决方案，将您的产品从网络本地化为移动设备和桌面。
@@ -258,7 +258,7 @@
   - [Cajon](https://github.com/requirejs/cajon) - 浏览器的JavaScript模块加载器，可以加载CommonJS/node和AMD模块。它建立在RequireJS之上。
   - [require1k](https://github.com/Stuk/require1k) - 一个最小但实用的 CommonJS/Node.js需要浏览器的模块加载器，小于 1000 字节。
 - ECMAScript 6：
-  - Snowpack - 使用 Snowpack，您可以在没有捆绑器（如 [Webpack](https://www.snowpack.dev/)、Parcel、Rollup ）的情况下构建现代 Web 应用程序（使用 React、Vue 等）。不再需要等待您的捆绑器重建您的网站。相反，每个更改都会立即反映在浏览器中。
+  - [Snowpack](https://www.snowpack.dev/) - 使用 Snowpack，您可以在没有捆绑器（如 Webpack、Parcel、Rollup ）的情况下构建现代 Web 应用程序（使用 React、Vue 等）。不再需要等待您的捆绑器重建您的网站。相反，每个更改都会立即反映在浏览器中。
 
 ## 模块和资源打包器
 
@@ -303,8 +303,8 @@
 ## 检查、验证、清单
 
 - [网页检查清单](https://frontendchecklist.io/) - 在将您的网站/HTML页面启动到生产环境之前，您需要拥有/测试的所有元素的详尽列表。
-- [lint-staged](https://github.com/okonet/lint-staged) - 针对暂存的 git 文件运行 linter。此项目包含一个脚本，该脚本将运行任意 shell 任务，并将暂存文件列表作为参数，按指定的 glob 模式进行筛选。
-- [textlint](https://textlint.github.io/) - 用于文本和降价的可插拔 linting 工具。 与 类似，但它用于自然语言。textlintESLint
+- [lint-staged](https://github.com/okonet/lint-staged) - 针对暂存的 git 文件运行 linter。此项目包含一个脚本，该脚本将运行任意 shell 任务，并将暂存文件列表作为参数，按指定的 glob 模式进行筛选
+- [textlint](https://textlint.github.io/) - 用于文本和Markdown的可插拔的linting工具，适用于对自然语言文本进行lint处理。
 - [WebHint](https://webhint.io/) - 一个用于Web的linting工具。
 - [Web开发人员清单](http://webdevchecklist.com/) - 所有认真的Web开发人员构建现代网站的最终清单。
 - .CSS
@@ -379,7 +379,7 @@
 
 - [Prettier](https://prettier.io/) - 代码格式化工具，它通过解析代码并使用自己的规则(考虑到最大行长度)重新打印代码，并在必要时包装代码，从而实现一致的风格.
 
-##  `缩小`器
+## 缩小器
 
 - [Minify](http://coderaiser.github.io/minify/) - js, css, HTML和img文件的迷你器。
 - [Node-minify](https://github.com/srod/node-minify) - 一个轻量级的Node.js模块，用于压缩javascript和css文件。
@@ -433,7 +433,7 @@
 - [semantic-release](https://github.com/semantic-release/semantic-release) - 自动化整个包发布工作流，包括：确定下一个版本号、生成发行说明和发布包。
 - [standard-version](https://github.com/conventional-changelog/standard-version) - 使用[semver](https://semver.org/)和[常规提交消息](https://conventionalcommits.org/)自动进行版本控制和CHANGELOG生成。
 
-## 样板，脚手架
+## 模版，脚手架
 
 - [Create React App](https://create-react-app.dev/)  - 创建没有构建配置的 [React 应用程序](https://create-react-app.dev/)。
 - [create-react-library](https://github.com/transitive-bullshit/create-react-library) - 用于轻松创建可重用反应库的 CLI。
@@ -519,7 +519,7 @@
 
 ## 版本控制
 
-- Git 
+- Git
   - [Git Extras - Git](https://github.com/tj/git-extras) 实用程序 - 存储库摘要、repl、更新日志填充、作者提交百分比等。
   - [husky](https://github.com/typicode/husky) - Git 钩子变得容易。赫斯基可以防止错误的 git 提交、git push 等。
   - [sourcetreeapp](https://www.sourcetreeapp.com/) - 通过简单的 Git GUI 可视化和管理您的存储库。
@@ -535,7 +535,7 @@
   - [http-server](https://github.com/http-party/http-server) - 一个简单的零配置命令行 HTTP 服务器。
   - [JSON Server](https://github.com/typicode/json-server) - 获取一个完整的假 REST API，零编码。
   - [live-server/](http://tapiov.net/live-server/) - 具有实时重新加载功能的简单开发HTTP服务器。
-  - [lite-server](https://github.com/johnpapa/lite-server) - 为Web应用提供服务的轻量级开发Node服务器。 是围绕浏览器同步的简单自定义包装器，以便于 SPA 提供服务。lite-server
+  - [lite-server](https://github.com/johnpapa/lite-server) - 为Web应用提供服务的轻量级开发Node服务器。 是围绕浏览器同步的简单自定义包装器，以便于 SPA 提供服务。
   - [local-web-server](https://github.com/lwsjs/local-web-server) - 用于高效全栈开发的模块化网络服务器。
   - [MockIt](https://mockit.netlify.com/) - 一个快速创建模拟API的工具。
   - [puer](https://github.com/leeluolee/puer) - 不仅仅是一个实时重载服务器，专为高效的前端开发而构建。
@@ -557,7 +557,7 @@
 ## Node.js版本管理
 
 - [n](https://github.com/tj/n) - 以交互方式管理您的 Node.js 版本。
-- [Node](https://www.npmjs.com/package/node) - 将二进制文件安装到项目中的 npm 包，这意味着您可以拥有与系统不同的本地版本，并作为普通依赖项进行管理。nodenodenode
+- [Node](https://www.npmjs.com/package/node) - 将二进制文件安装到项目中的 npm 包，这意味着您可以拥有与系统不同的本地版本，并作为普通依赖项进行管理。
 - [nodenv](https://github.com/nodenv/nodenv) - 管理多个 NodeJS 版本。
 - [Nodist](https://github.com/marcelklehr/nodist) - 一个Node.js和 npm 版本的管理器。
 - [nvm（Node版本管理器）](https://github.com/creationix/nvm) - 简单的bash脚本，用于管理多个活动Node.js版本。
@@ -680,7 +680,7 @@
 - [Checkbot：Web 最佳实践](https://www.checkbot.io/guide/) - 详细介绍 50+ SEO、速度和安全 Web 最佳实践。
 - [DevDocs](https://devdocs.io/) - 将多个 API 文档组合在一个快速、有条理且可搜索的界面中。
 - [每个程序员都应该知道](https://github.com/mtdvio/every-programmer-should-know) - 每个软件开发人员都应该知道的（大部分）技术知识的集合。
-- [前端面试手册](https://github.com/yangshun/front-end-interview-handbook) - “前端面试问题”的几乎完整答案，您可以使用它们来面试潜在的候选人，测试自己或完全忽略。
+- [前端面试手册](https://github.com/yangshun/front-end-interview-handbook) - “前端面试问题”的几乎完整答案，您可以使用它们来面试潜在的候选人，测试自己。
 - [前端开发人员面试问题](https://h5bp.org/Front-end-Developer-Interview-Questions/) - 一系列有用的前端相关问题，可用于面试潜在候选人或测试自己。
 - [抓取前端](https://github.com/grab/front-end-guide)指南 - 学习指南和现代前端堆栈介绍。
 - [OverAPI.com](https://overapi.com/) - 收集所有备忘单。
