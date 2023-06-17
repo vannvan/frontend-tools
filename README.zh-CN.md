@@ -1,35 +1,36 @@
 # 前端开发者工具(大部分)
 
  简体中文｜ [English](README.md)
+> 推荐打开右上角`Outline`浏览
 
 ## 工具目录 / 搜索 / 发现 / 比较服务
 
 - [AlternativeTo](https://alternativeto.net/) - 一项免费服务，可帮助您找到您喜欢和讨厌的产品的更好替代品。  
 - [awesome](https://awesome.re/) - 一个精选的awasome列表。
-- [很棒的开源](https://awesomeopensource.com/) - 通过搜索，浏览和组合主题来查找开源。
+- [awesomeopensource](https://awesomeopensource.com/) - 通过搜索，浏览和组合主题来查找开源。
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - React 组件和库的精选列表。
 - [最好的JavaScript](https://bestofjs.org/) - 一个找到最好的组件来构建令人惊叹的Web应用程序的地方。
 - [CSS Script](https://www.cssscript.com/) - 一个Javascript和CSS代码库，旨在为Web/移动开发人员和设计师提供最新，最好和免费的CSS和JavaScript资源。
-- [开发人员免费](https://free-for.dev/) - 软件列表（SaaS、PaaS、IaaS 等）和其他为开发人员提供免费层的产品。
+- [开发人员免费的产品](https://free-for.dev/) - 软件列表（SaaS、PaaS、IaaS 等）和其他为开发人员提供免费层的产品。
 - [headlesscms.org](https://headlesscms.org/) - JAMstack 站点的内容管理系统列表。
 - [iReact](http://ireact.cn/) - 帮助你发现最棒、最强大的 React 组件和库，并让你轻松选择一个适合你的。
 - [JavaScripting](https://www.javascripting.com/) - 最好的JavaScript库，框架和插件的权威来源。
 - [jQuery 插件 - jQuery 插件](https://jquery-plugins.net/)的分类集合。
 - [JqueryScript.Net](https://www.jqueryscript.net/) - jQuery插件网站之一，为网页设计师和开发人员提供了一种简单的方法来预览和下载各种免费的jQuery插件。
 - [JSter](http://jster.net/) - 前端JavaScript库的目录。
-- [JS.coach](https://js.coach/) - 一个开源JS包的自以为是的目录。
+- [JS.coach](https://js.coach/) - 一个开源JS包。
 - [LibHunt](https://www.libhunt.com/) - 我们的目标是帮助您找到所需的软件和库。所有列表均由来自相关 GitHub 社区的许多专家精心制作。
 - [Libraries.io](https://libraries.io/) - 帮助开发人员找到新的开源库、模块和框架，并跟踪他们所依赖的库、模块和框架。
 - [MicroJS](http://microjs.com/) - 梦幻般的微框架和微库，带来乐趣和利润！
 - [Moiva](https://moiva.io/) - 测量和比较 JavaScript 库。
 - [Node框架](http://nodeframework.com/) - 精心挑选的 Node.js 框架注册表。
-- [Node.js Toolbox](https://nodejstoolbox.com/) - 在 [Node.js](https://nodejstoolbox.com/) 生态系统中查找积极维护和流行的库。
+- [Node.js 工具箱](https://nodejstoolbox.com/) - 在 [Node.js](https://nodejstoolbox.com/) 生态系统中查找积极维护和流行的库。
 - [NPMCompare](https://npmcompare.com/) - 搜索和比较 npm 包。
 - [NPMS](https://npms.io/) - 一个更好的开源Node模块搜索。
 - [npm 趋势](https://www.npmtrends.com/) - 比较一段时间内的包下载计数。
 - [Openbase](https://openbase.com/) - 一个帮助开发人员浏览开源世界并做出更明智选择的平台。
 - [Pika](https://www.pika.dev/) - 在 npm 中搜索快速、现代的软件包。
-- [Redux 生态系统链接 - Redux](https://github.com/markerikson/redux-ecosystem-links) 插件库的分类列表，以及其他密切相关的库。
+- [Redux 生态系统链接](https://github.com/markerikson/redux-ecosystem-links) 插件库的分类列表，以及其他密切相关的库。
 - [Slant](https://www.slant.co/) - 一个产品推荐社区，帮助人们与最适合他们的产品联系起来。
 - [StackShare](https://stackshare.io/) - 发现和讨论最好的软件工具和服务。
 - [StaticGen.com](https://www.staticgen.com/) - 顶级开源静态站点生成器的排行榜。
@@ -41,10 +42,10 @@
 
 - 规范
   - [ECMAScript 标准规范](http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
-  - [版本 3 （PDF）](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%203rd%20edition,%20December%201999.pdf)
-  - 版本 5.1： [HTML](http://www.ecma-international.org/ecma-262/5.1/index.html) |[.PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%205.1%20edition%20June%202011.pdf)
-  - 版本 6 / 2015： [HTML](http://www.ecma-international.org/ecma-262/6.0/index.html) |[.PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%206th%20edition%20June%202015.pdf)
-  - 版本 8 / 2017： [HTML](https://www.ecma-international.org/ecma-262/8.0/index.html) |[.PDF](https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
+  - [version 3 （PDF）](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%203rd%20edition,%20December%201999.pdf)
+  - version 5.1： [HTML](http://www.ecma-international.org/ecma-262/5.1/index.html) |[.PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%205.1%20edition%20June%202011.pdf)
+  - version 6 / 2015： [HTML](http://www.ecma-international.org/ecma-262/6.0/index.html) |[.PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%206th%20edition%20June%202015.pdf)
+  - version 8 / 2017： [HTML](https://www.ecma-international.org/ecma-262/8.0/index.html) |[.PDF](https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
   - [TC39 提案](https://prop-tc39.now.sh/)
 - 支持/兼容性
   - [ECMAScript 兼容性表](https://kangax.github.io/compat-table/)
@@ -81,7 +82,7 @@
 ## JavaScript UI （view） 库 / 框架
 
 - [Alpine.js](https://github.com/alpinejs/alpine) - 一个坚固的最小框架，用于在标记中编写 JavaScript 行为。Alpine.js 以更低的成本为您提供了 Vue 或 React 等大型框架的响应式和声明性。
-- [Cell](https://www.celljs.org/) - 一个由自我驱动的DOM驱动的自我构建的Web应用程序框架。
+- [Cell](https://www.celljs.org/) - 一个由自驱动的DOM驱动的自构建的Web应用程序框架。
 - [Inferno](https://infernojs.org/) - 一个非常快速的、类似 React 的 JavaScript 库，用于构建现代用户界面。
 - [markojs](https://markojs.com/) - 一个友好的（而且快速！使构建 Web 应用程序变得有趣的 UI 库。
 - [Melody](https://melody.js.org/) - 一个快速且内存高效的库，用于创建高度动态的用户界面。
@@ -360,7 +361,7 @@
 - [stacktrace.js](https://www.stacktracejs.com/) - 在所有 Web 浏览器中生成、解析和增强 JavaScript 堆栈跟踪。
 - [Vorlon.JS](http://www.vorlonjs.com/) - 一个开源的、可扩展的、与平台无关的工具，用于远程调试和测试你的JavaScript，由node.js和 socket.io 提供支持。
 - [weinre](https://people.apache.org/~pmuellr/weinre/docs/latest/) - 网页的调试器，如FireBug（用于FireFox）和Web Inspector（用于基于WebKit的浏览器），除了它被设计为远程工作，特别是允许您在移动设备（如手机）上调试网页。
-- Use new Error().stack or console.trace() to print stack trace (see [Force Stack Traces with JavaScript](https://davidwalsh.name/javascript-stack-trace)).
+- 使用 new Error().stack 或者 console.trace() 打印错误堆栈 (see [Force Stack Traces with JavaScript](https://davidwalsh.name/javascript-stack-trace)).
 
 ## 文档
 
@@ -372,16 +373,16 @@
 - [ESDoc](https://esdoc.org/) - JavaScript 的文档生成器 （ES6）。
 - [JSDoc](https://jsdoc.app/) - JavaScript的API文档生成器。
 - [x0](https://github.com/c8r/x0) - 不费吹灰之力地记录和开发 React 组件。
-- [YUIDoc](http://yui.github.io/yuidoc/) - A Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
+- [YUIDoc](http://yui.github.io/yuidoc/) - 一个从源代码中的注释生成API文档的Node.js应用程序，使用类似于Javadoc和Doxygen等工具的语法。
 
-## Code processing
+## 代码处理
 
-- [Prettier](https://prettier.io/) - an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+- [Prettier](https://prettier.io/) - 代码格式化工具，它通过解析代码并使用自己的规则(考虑到最大行长度)重新打印代码，并在必要时包装代码，从而实现一致的风格.
 
-## Minification
+##  `缩小`器
 
-- [Minify](http://coderaiser.github.io/minify/) - a minifier of js, css, html and img files.
-- [Node-minify](https://github.com/srod/node-minify) - a light Node.js module that compress javascript and css files.
+- [Minify](http://coderaiser.github.io/minify/) - js, css, HTML和img文件的迷你器。
+- [Node-minify](https://github.com/srod/node-minify) - 一个轻量级的Node.js模块，用于压缩javascript和css文件。
 - CSS
   - [clean-css](https://github.com/jakubpawlowicz/clean-css) - 一个快速高效的CSS优化器，适用于Node.js平台和任何现代浏览器。
   - [Crass](https://github.com/mattbasta/crass) - 一个用JS编写的CSS缩小，漂亮的打印和通用实用程序库。
@@ -436,7 +437,7 @@
 
 - [Create React App](https://create-react-app.dev/)  - 创建没有构建配置的 [React 应用程序](https://create-react-app.dev/)。
 - [create-react-library](https://github.com/transitive-bullshit/create-react-library) - 用于轻松创建可重用反应库的 CLI。
-- [DEGIT](https://github.com/Rich-Harris/degit) - 简单的项目脚手架。_Degit 制作 Git_ 存储库的副本。
+- [DEGIT](https://github.com/Rich-Harris/degit) - 简单的项目脚手架。
 - [fullstack-typescript](https://github.com/gilamran/fullstack-typescript) - FullStack React with TypeScript 入门套件。
 - [Neutrino](https://neutrinojs.org/) - 一个配套工具，可让您使用共享预设或配置构建Web和Node.js应用程序。它打算通过提供最少的开发依赖项来简化初始化和构建项目的过程。
 - [nwb](https://github.com/insin/nwb) - React，Preact，Inferno和vanilla JS应用程序，React库和其他Web的npm模块的工具包，无需配置（直到您需要它）。
@@ -470,18 +471,18 @@
 
 - [css.gg](https://css.gg/) - 开源CSS，SVG和Figma UI图标，可在SVG Sprite，styled-components，NPM和API中使用。
 - [Eva](https://akveo.github.io/eva-icons/)图标 - 包含480多个精美制作的开源图标，用于常见操作和项目。图标以两种视觉类型提供：填充和轮廓以及多种格式，包括 PNG、SVG、字体、草图等。
-- [英雄图标](https://heroicons.dev/) - 一组免费的 MIT 许可的高质量 SVG 图标，用于 UI 开发。
+- [heroicons](https://heroicons.dev/) - 一组免费的 MIT 许可的高质量 SVG 图标，用于 UI 开发。
 - [iconmonstr](https://iconmonstr.com/) - 免费，巨大且不断增长的简单图标来源。
 - [icono](https://saeedalipoor.github.io/icono/) - 纯CSS图标，只有一个元素。
-- [图标](https://iconoir.com/) - 高质量的免费图标选择。
-- [图标8](https://icons8.com/) - 免费的图标，照片，矢量，音乐和工具。
+- [iconoir](https://iconoir.com/) - 高质量的免费图标选择。
+- [icons8](https://icons8.com/) - 免费的图标，照片，矢量，音乐和工具。
 - [IconSear.ch](https://iconsear.ch/search.html) - SVG图标的搜索引擎。
 - [Ikonate](https://www.ikonate.com/) - 完全可定制和可访问，优化良好的矢量图标。
-- [线条图标](https://lineicons.com/) - 用于现代用户界面的手工线条图标。
+- [lineicons](https://lineicons.com/) - 用于现代用户界面的手工线条图标。
 - [LogoSear.ch](https://logosear.ch/search.html) - SVG徽标的搜索引擎。
 - [Lorem Picsum](https://picsum.photos/) - 用于照片的Lorem Ipsum。易于使用、时尚的图像占位符。只需在我们的URL之后添加您想要的图像大小（宽度和高度），您将获得一张随机图像。
 - [Remix Icon](https://remixicon.com/) - 一组面向设计师和开发人员的开源中性风格系统符号。
-- [超级小图标](https://github.com/edent/SuperTinyIcons) - 您最喜爱的网站和应用程序徽标的微型SVG版本。
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - 您最喜爱的网站和应用程序徽标的微型SVG版本。
 - [svgporn](https://svgporn.com/) - 大量的SVG标志集合。
 - [Tabler](https://tabler-icons.io/) 图标 - 免费和开源图标，旨在使您的网站或应用程序具有吸引力，视觉一致性和简单美观。
 - [VectorLogoZone](https://www.vectorlogo.zone/) - 格式一致的SVG标志。
@@ -518,7 +519,7 @@
 
 ## 版本控制
 
-- Git ↑ ↑ [↑ ↑](https://github.com/gamtiq/frontend-tools#toc)
+- Git 
   - [Git Extras - Git](https://github.com/tj/git-extras) 实用程序 - 存储库摘要、repl、更新日志填充、作者提交百分比等。
   - [husky](https://github.com/typicode/husky) - Git 钩子变得容易。赫斯基可以防止错误的 git 提交、git push 等。
   - [sourcetreeapp](https://www.sourcetreeapp.com/) - 通过简单的 Git GUI 可视化和管理您的存储库。
@@ -526,7 +527,7 @@
 
 ## 开发服务器
 
-- 基于Node[.js](https://github.com/gamtiq/frontend-tools#toc)
+- 基于Node.js
   - [browsersync](https://www.browsersync.io/) - 在构建网站时保持多个浏览器和设备同步。
   - [EasyMock](https://github.com/cyberagent/node-easymock)服务器 - 一个简单但功能强大的模拟服务器。
   - [Fenix](http://fenixwebserver.com/) - 具有协作功能的简单可视化静态Web服务器。
@@ -575,7 +576,7 @@
 - [RJ TextEd](https://www.rj-texted.se/) - 一个功能齐全的文本和源代码编辑器，支持 Unicode。它也是一个非常强大的Web（PHP，ASP，JavaScript，HTML和CSS）开发编辑器。
 - [Visual Studio Code](https://code.visualstudio.com/) - 一种新型工具，它将代码编辑器的简单性与开发人员核心编辑-构建-调试周期所需的功能相结合。Code 提供全面的编辑和调试支持、扩展性模型以及与现有工具的轻量级集成。
 
-## 游乐场，交互式计算
+## 游乐场，交互式运行
 
 - [nteract](https://nteract.io/) - SDK、应用程序和库，可帮助您和您的团队充分利用交互式笔记本和 REPL。
 - [Quokka](https://quokkajs.com/) - 用于快速JavaScript / TypeScript原型设计的开发人员生产力工具。运行时值会在您键入时更新并显示在 IDE 中的代码旁边。
@@ -614,13 +615,13 @@
 - [Hugo](https://gohugo.io/) - 一个用Go编写的静态HTML和CSS网站生成器。它针对速度、易用性和可配置性进行了优化。Hugo 获取一个包含内容和模板的目录，并将它们呈现为一个完整的 HTML 网站。
 - [Lektor](https://www.getlektor.com/) - 一个灵活而强大的静态内容管理系统，用于从平面文件构建复杂而漂亮的网站。
 
-## 模拟器，模拟器
+## 模拟器
 
 - [Responsinator](https://www.responsinator.com/) - 帮助网站制作者快速了解他们的响应式网站在最受欢迎的设备上的外观。
 
 ## API
 
-- [APIs.guru](https://apis.guru/browse-apis/) - Wikipedia for WEB API.
+- [APIs.guru](https://apis.guru/browse-apis/) - 浏览器API的“维基百科”
 - [可编程 Web API 目录](https://www.programmableweb.com/apis/directory) - 开发人员可以在其中搜索要包含在下一个软件开发项目中的 API。
 - [公共](https://github.com/public-apis/public-apis) API - 用于软件和 Web 开发的免费 API 的集合列表。
 - [public-apis.io](https://public-apis.io/) - 一个自由公共和开放 Rest API 的目录。
@@ -644,7 +645,7 @@
 
 ## 托管，云服务
 
-- [000webhost](https://www.000webhost.com/)&[hostinger.ru](https://www.hostinger.ru/) - 零成本网站托管，PHP，MySQL，Cpanel和无广告。
+- [000webhost](https://www.000webhost.com/) 和 [hostinger.ru](https://www.hostinger.ru/) - 零成本网站托管，PHP，MySQL，Cpanel和无广告。
 - [5apps](https://5apps.com/deploy/) 部署 - 客户端 Web 应用程序的交钥匙部署和托管平台。
 - [Backendless](https://backendless.com/) - 领先的 mBaaS 和强大的移动应用程序开发平台，可快速开发功能丰富的移动、桌面和基于浏览器的应用程序。
 - [Cloudant](https://www.ibm.com/cloud/cloudant) - 一个高度可扩展且高性能的 JSON 数据库。
@@ -657,7 +658,7 @@
 - [JSONSERVE](https://jsonserve.com/) - 轻松托管您的 JSON 并在您的应用程序中使用。
 - [Microsoft Azure](https://azure.microsoft.com/en-us/services/app-service/) - 快速创建适用于 Web 和移动客户端的强大云应用。
 - [Netlify](https://www.netlify.com/) - 构建、部署和托管您的前端。
-- [现在](https://zeit.co/now) - 允许您轻松、快速、可靠地将 JavaScript （Node.js） 或 Docker 驱动的网站、应用程序和服务迁移到云中。
+- [now](https://zeit.co/now) - 允许您轻松、快速、可靠地将 JavaScript （Node.js） 或 Docker 驱动的网站、应用程序和服务迁移到云中。
 - [Nuclino](https://www.nuclino.com/) - 在团队中组织和共享知识的最简单方法。创建实时协作文档，并像 wiki 一样立即连接它们。使用树、板和图形视图直观地探索和组织您的知识。它非常适合会议记录、产品要求、文档、决策等。
 - [OpenShift](https://www.openshift.com/) - 红帽的平台即服务 （PaaS），允许开发人员在云环境中快速开发、托管和扩展应用。
 - [Pastebin](https://pastebin.com/) - 一个网站，您可以在其中在线存储任何文本以便于共享。
@@ -689,7 +690,7 @@
 - [技术面试手册](https://yangshun.github.io/tech-interview-handbook/) - 精心策划的内容，帮助您在下一次技术面试中脱颖而出，重点是算法。
 - [Unix Toolbox - Unix](http://devdoc.net/linux/UnixToolbox.html)/Linux/BSD命令和任务的集合，对IT工作或高级用户很有用。这是一本实用指南，有简洁的解释，但读者应该知道他/她在做什么。
 - CSS
-  - [30 秒 CSS](https://www.30secondsofcode.org/css/) - 一个精选的有用 CSS 片段集合，您可以在 30 秒或更短的时间内理解。
+  - [30secondsofcode](https://www.30secondsofcode.org/css/) - 一个精选的有用 CSS 片段集合，您可以在 30 秒或更短的时间内理解。
   - [CSS 函数的完整指南](https://css-tricks.com/complete-guide-to-css-functions/)
   - [Bootstrap Cheatsheet - Bootstrap](https://bootstrap-cheatsheet.themeselection.com/)类、变量和mixin的交互式列表。
   - [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - 一系列提示，可帮助您提高CSS技能专业版。
@@ -744,15 +745,15 @@
 - [TodoMVC](https://todomvc.com/) - 帮助您选择 MV* 框架。
 - [Vanilla Web Projects](https://github.com/bradtraversy/vanillawebprojects) - 使用 HTML5、CSS 和 JavaScript 构建的迷你项目。没有框架或库。
 - CSS
-  - [来自 CodePen 的 CSS](https://freebiesupply.com/blog/css-arrows/) 箭头 - 来自 CodePen 的 CSS 箭头列表。
-  - [CSS背景模式](https://www.magicpattern.design/tools/css-backgrounds) - 美丽的纯CSS背景图案。
+  - [css-arrows](https://freebiesupply.com/blog/css-arrows/) 箭头 - 来自 CodePen 的 CSS 箭头列表。
+  - [CSS背景](https://www.magicpattern.design/tools/css-backgrounds) - 美丽的纯CSS背景图案。
   - [CSSFX](https://cssfx.netlify.app/) - 精美简单的点击复制CSS效果。精心制作的系列，设计注重流动性、简单性和易用性。由 CSS 提供支持，标记最少。
   - [CSS Layout](https://csslayout.io/) - 用CSS制作的流行布局和模式。
   - [Drop-in Minimal CSS -](https://dohliam.github.io/dropin-minimal-css/) 准系统即插即用式 CSS 样板框架的概述。
   - [SpinKit](https://tobiasahlin.com/spinkit/) - 一个用CSS动画的加载指标的集合。
   - [CSS的形状](https://css-tricks.com/the-shapes-of-css/) - CSS中的许多形状只有一个HTML元素。
-  - [过渡.css](https://www.transition.style/) - 使用剪辑路径轻松过渡。
-  - [UI 元素的宇宙](https://uiverse.io/) - CSS 按钮、复选框等。从众多UI组件中进行选择，并获取您喜欢的CSS。
+  - [transition.css](https://www.transition.style/) - 使用剪辑路径轻松过渡。
+  - [uiverse](https://uiverse.io/) - CSS 按钮、复选框等。从众多UI组件中进行选择，并获取您喜欢的CSS。
   - UI 代码[段 - UI 代码段](https://ui-snippets.dev/)的集合。
   - [WebGradients](https://webgradients.com/) - 180个线性渐变的免费集合，您可以将其用作网站任何部分的内容背景。
   - [Whirl](https://whirl.netlify.app/) - CSS 加载动画，毫不费力。
@@ -760,7 +761,7 @@
   - HTML DOM - 使用 vanilla JavaScript 管理 [HTML DOM](https://htmldom.dev/) 的常见任务。
   - [Sneat Free Bootstrap HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free) - 开源和 rasy 使用 Bootstrap 5 HTML 管理模板，具有优雅的设计和独特的布局。
 
-### 新闻，摘要
+### 新闻，资讯
 
 - [https://frontendweekly.co/](https://frontendweekly.co/) - 与前端开发相关的最佳文章，链接和新闻。
 - [JavaScript Weekly](https://javascriptweekly.com/) - JavaScript文章，新闻和酷项目的时事通讯。
